@@ -41,15 +41,12 @@ function PostComponent() {
             }}
           ></img>
           <div>
-            <b>100xdevs</b>
-            <div>23,888 followers</div>
-            <div>12m</div>
+            <b>REACT</b>
+            <div>learning going on </div>
+            <div>00.00</div>
           </div>
         </div>
-        <div>
-          want to know how to win big? check out how these folks won $6000
-          bounties
-        </div>
+        <div>learning react + vite</div>
       </div>
     </div>
   );
