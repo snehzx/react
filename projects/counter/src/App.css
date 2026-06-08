@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  flex-direction: column;
+  gap: 15px;
+}
+#h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(159, 54, 186);
+}
+span {
+  color: rgb(232, 69, 213);
+}
+#inc {
+  padding: 5px;
+  font-size: 1rem;
+  color: rgb(194, 239, 239);
+  background-color: rgb(55, 128, 0);
+  border: 1px solid green;
+}
+#dec {
+  padding: 5px;
+  font-size: 1rem;
+  color: rgb(194, 239, 239);
+  background-color: rgb(169, 10, 60);
+  border: 1px solid rgb(171, 0, 0);
+}
