@@ -65,8 +65,7 @@ ${className}`}
         <input
           id={amountInputId}
           type="number"
-          className="flex-1
-              bg-transparent
+          className="flex-1 w-full
               outline-none
               text-xl
               font-medium
